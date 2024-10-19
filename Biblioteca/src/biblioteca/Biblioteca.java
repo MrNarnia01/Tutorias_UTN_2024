@@ -29,7 +29,6 @@ public class Biblioteca {
             JOptionPane.showMessageDialog(null, p[i].mos());
         }
         
-        
         //Menu de opciones
         do {            
             v=JOptionPane.showInputDialog("""
